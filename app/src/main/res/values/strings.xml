@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Mumbai Tour Guide</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Gateway of India-->
+    <string name="gatewayofindia">Gateway of India</string>
+    <string name="gatetime">Open 24 hours</string>
+    <string name="gatelocation">25 km from Mumbai Airport</string>
+    <string name="gatedesc">One of the most distinguishing landmarks that signify the city, the Gateway of India came into existence in the year 1924 during the British Raj to celebrate the arrival of King George V and Queen Mary to Bombay. The structure marks the area as one of India’s major ports which formally symbolised elements of British grandeur. Located in the waterfront area of Apollo Bunder, today it is one of the most popular tourist places in Mumbai for people from all over the globe who flock just for a glance at this monument.</string>
+    <string name="gatefees">Entry is free</string>
+    <string name="gaterating">4.5/5.0</string>
+    <string name="gateurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--cst mumbai-->
+    <string name="cst">Chhatrapati Shivaji Maharaj Terminus</string>
+    <string name="csttime">Open 24 hours</string>
+    <string name="cstlocation">25 km from Mumbai Airport</string>
+    <string name="cstdesc">Chhatrapati Shivaji Maharaj Terminus is one of the UNESCO World Heritage site. It is a historic railway station and headquarters to the Central Railways. Built in May 1888, the place is popular for its wonderful architecture.  This Place is Mumbais point of interest among youngster.</string>
+    <string name="cstfees">Entry is free</string>
+    <string name="cstrating">4.5/5.0</string>
+    <string name="csturl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+
+    <!--Goregaon Film City-->
+    <string name="filmcity">Goregaon Film City</string>
+    <string name="filmtime">Open 24 hours</string>
+    <string name="filmlocation">15 km from Mumbai Airport</string>
+    <string name="filmdesc">The Film City is one of the main highlights of Mumbai thus making it one of the most favorite tourist places to visit in Mumbai. Well-equipped with a multitude of studios that house artificial mountains, lakes, gardens, cities, and villages, which make it difficult to distinguish real from fake, the film city is a dream world for tourists everywhere.</string>
+    <string name="filmfees">Entry Ticket is INR 1200</string>
+    <string name="filmrating">4.7/5.0</string>
+    <string name="filmurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Juhu Beach-->
+    <string name="juhu">Juhu Beach</string>
+    <string name="juhutime">Open 24 hours</string>
+    <string name="juhulocation">6 km from Mumbai Airport</string>
+    <string name="juhudesc">Juhu can be defined as one of the largest and most sought after beaches in India. It is a hot-spot for elite celebrity homes and film personality sightings located in the suburbs of the city making it one of the most eminent tourist places to visit in Mumbai. Visitors all over the country love the beach for it is also a gastronomic paradise hosting stalls that serve up platters of lip-smacking street food. The sandy delight is most crowded during weekends where people can get entertained by horse and donkey rides, dancing monkeys, toy sellers and other kinds of amusement.</string>
+    <string name="juhufees">Entry Ticket is Free</string>
+    <string name="juhurating">4.7/5.0</string>
+    <string name="juhuurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Powai Lake-->
+    <string name="plake">Powai Lake</string>
+    <string name="ptime">8:00 am to 8:00 pm</string>
+    <string name="plocation">8.5 km from Mumbai Airport</string>
+    <string name="pdesc">
+        Powai Lake is an artificial lake located in the Powai valley in the northern suburb of Mumbai which was named after Framaji Kavasji Powai Estate. This lake is among the beautiful places in Mumbai which you cant pass up a great opportunity for your visit to this city. Situated on Salsette Island, by the Powai town, Powai Lake is a quiet and mitigating spot to appreciate nature taking care of business. Toward the east of this lake is the famous Indian Institute of Technology (IIT Mumbai) which lies downstream of Vihar Lake and the Mithi River.
+
+    </string>
+    <string name="pfees">Entry Ticket is INR 10</string>
+    <string name="prating">4.7/5.0</string>
+    <string name="purl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+
+    <!--Worli Sea Face-->
+    <string name="worli">Worli Seaface</string>
+    <string name="worlitime">24 hours</string>
+    <string name="worlilocation">14 km from Mumbai Airport</string>
+    <string name="worlidesc">
+A favourite hangout situated south of the picturesque Sea link from Bandra, Worli Seaface is another one of Bombays promenades. It is one of the top places in the city for one to experience the epic monsoons that offer a remarkable view of the angry waves rising up onto the road. The magnificent view of the Bandra Worli Sea Link is another beautiful places in Mumbai that must not be missed.
+
+    </string>
+    <string name="worlifees">Entry Ticket is Free</string>
+    <string name="worlirating">4.7/5.0</string>
+    <string name="worliurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+
+    <!--Babulnath Temple-->
+
+    <string name="temple">Babulnath Temple</string>
+    <string name="templetime">8:00 am to 8:00 pm</string>
+    <string name="templelocation">10 km from Mumbai Airport</string>
+    <string name="templedesc">
+A temple dedicated to all Goddess of India.
+    </string>
+    <string name="templefees">Entry Ticket is Free</string>
+    <string name="templegod">Mahalakshmi, Ganesh</string>
+    <string name="templeurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!-- Haji ALi-->
+    <string name="dargah">Haji Ali Dargah</string>
+    <string name="dargahtime">7:00 am to 10:00 pm</string>
+    <string name="dargahlocation">10 km from Mumbai Airport</string>
+    <string name="dargahdesc">
+A temple dedicated to all Goddess of India.
+    </string>
+    <string name="dargahfees">Entry Ticket is Free</string>
+    <string name="dargahgod">Muslim God</string>
+    <string name="dargahurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Mahalakshmi Temple-->
+    <string name="mahalakshmi">Mahalakshmi Temple</string>
+    <string name="mahalakshmitime">7:00 am to 10:00 pm</string>
+    <string name="mahalakshmilocation">10 km from Mumbai Airport</string>
+    <string name="mahalakshmides">
+A temple dedicated to all Goddess of India.
+    </string>
+    <string name="mahalakshmifees">Entry Ticket is Free</string>
+    <string name="mahalakshmigod">Mahalakshmi Devi</string>
+    <string name="mahalakshmiurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Siddhivanayak Temple-->
+    <string name="ganpati">Siddhivanayak Temple</string>
+    <string name="ganpatitime">7:00 am to 10:00 pm</string>
+    <string name="ganpatilocation">12 km from Mumbai Airport</string>
+    <string name="ganpatidesc">
+A Hindu temple dedicated to the Lord Shri Ganesh is a standing testament to beauty and architecture. Constructed in 1801, the temple entertains thousands of devotees every single day. Even Bollywood celebrities, as well as other prominent figures, climb up to the temple to seek blessings and offer prayers to Lord Ganesha that is its magnetism. In all, the temple is definitely among the popular tourist places to visit in Mumbai.
+
+    </string>
+    <string name="ganpatifees">Entry Ticket is Free</string>
+    <string name="ganpatigod">Ganpati </string>
+    <string name="ganpatiurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Swami Narayan Mumbai-->
+    <string name="swami">Swami Narayan Temple</string>
+    <string name="swamitime">7:00 am to 10:00 pm</string>
+    <string name="swamilocation">12 km from Mumbai Airport</string>
+    <string name="swamidesc">
+The temple is dedicated to marwadi Religion.
+    </string>
+    <string name="swamifees">Entry Ticket is Free</string>
+    <string name="swamigod">Krishna </string>
+    <string name="swamiurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Priyadarshini Park-->
+
+    <string name="priya">Priyadarshini Park</string>
+    <string name="priyatime">7:00 am to 10:00 pm</string>
+    <string name="priyalocation">12 km from Mumbai Airport</string>
+    <string name="priyadesc">
+The park has different types of flora and fauna.
+    </string>
+    <string name="priyarating">4.5/5.0</string>
+    <string name="priyafees">Entry Ticket is Free</string>
+    <string name="priyaurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Sanjay Gandhi Park-->
+
+    <string name="sanjaypark">Sanjay Gandhi Park</string>
+    <string name="sanjaytime">7:00 am to 10:00 pm</string>
+    <string name="sanjaylocation">12 km from Mumbai Airport</string>
+    <string name="sanjaydesc">
+The park has different types of flora and fauna.
+    </string>
+    <string name="sanjayrating">4.5/5.0</string>
+    <string name="sanjayfees">Entry Ticket is INR 120</string>
+    <string name="sanjayurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Shivaji Park-->
+    <string name="shivajipark">Shivaji Park</string>
+    <string name="shivajitime">7:00 am to 10:00 pm</string>
+    <string name="shivajilocation">12 km from Mumbai Airport</string>
+    <string name="shivajides">
+The park has different types of flora and fauna. This is the park where Sachin Tendulkar used to play cricket.
+    </string>
+    <string name="shivajirating">4.5/5.0</string>
+    <string name="shivajifees">Entry Ticket is free</string>
+    <string name="shivajiurl">https://www.thrillophilia.com/places-to-visit-in-mumbai#</string>
+
+    <!--Hotel 1-->
+    <string name="hotel1">Four Seasons Hotel</string>
+    <string name="hotel1rate">4.5/5.0</string>
+    <string name="hotel1price">INR 12,744</string>
+    <string name="hotel1url">https://www.tripadvisor.in/Hotel_Review-g304554-d672189-Reviews-Four_Seasons_Hotel_Mumbai-Mumbai_Maharashtra.html</string>
+
+    <!--Hotel 2-->
+    <string name="hotel2">Sofitel Mumbai BKC</string>
+    <string name="hotel2rate">4.8/5.0</string>
+    <string name="hotel2price">INR 10,678</string>
+    <string name="hotel2url">https://www.tripadvisor.in/Hotel_Review-g304554-d2048980-Reviews-Sofitel_Mumbai_BKC-Mumbai_Maharashtra.html</string>
+
+    <!--Hotel 3-->
+    <string name="hotel3">The Taj Mahal palace </string>
+    <string name="hotel3rate">5.0/5.0</string>
+    <string name="hotel3price">INR 18,880</string>
+    <string name="hotel3url">https://www.tripadvisor.in/Hotel_Review-g304554-d302179-Reviews-The_Taj_Mahal_Palace-Mumbai_Maharashtra.html</string>
+
+    <!--Hotel 4-->
+    <string name="hotel4">President - IHCL SeleQtions</string>
+    <string name="hotel4rate">4.8/5.0</string>
+    <string name="hotel4price">INR 7,760</string>
+    <string name="hotel4url">https://www.tripadvisor.in/Hotel_Review-g304554-d304632-Reviews-President_IHCL_SeleQtions-Mumbai_Maharashtra.html</string>
+
+
+    <!--Hotel 5-->
+    <string name="hotel5">The Westin Mumbai Garden City</string>
+    <string name="hotel5rate">4.2/5.0</string>
+    <string name="hotel5price">INR 4,500</string>
+    <string name="hotel5url">https://www.tripadvisor.in/Hotel_Review-g304554-d1656756-Reviews-The_Westin_Mumbai_Garden_City-Mumbai_Maharashtra.html</string>
+
+    <!--Hotel 6-->
+    <string name="hotel6">JW Marriott Mumbai Sahar</string>
+    <string name="hotel6rate">4.5/5.0</string>
+    <string name="hotel6price">INR 10,974</string>
+    <string name="hotel6url">https://www.tripadvisor.in/Hotel_Review-g304554-d7621418-Reviews-JW_Marriott_Mumbai_Sahar-Mumbai_Maharashtra.html</string>
+
+    <!--Hotel 7-->
+    <string name="hotel7">Novotel Mumbai Juhu Beach</string>
+    <string name="hotel7rate">3.2/5.0</string>
+    <string name="hotel7price">INR 4,500</string>
+    <string name="hotel7url">https://www.tripadvisor.in/Hotel_Review-g304554-d1391624-Reviews-Novotel_Mumbai_Juhu_Beach-Mumbai_Maharashtra.html</string>
+
+    <!--Hotel 8   -->
+    <string name="hotel8">Radisson Mumbai Goregaon</string>
+    <string name="hotel8rate">4.8/5.0</string>
+    <string name="hotel8price">INR 4,500</string>
+    <string name="hotel8url">https://www.tripadvisor.in/Hotel_Review-g304554-d1022674-Reviews-Radisson_Mumbai_Goregaon-Mumbai_Maharashtra.html</string>
+
+
+    <!--Festival 1-->
+    <string name="fest1name">Ganesh Chaturthi</string>
+    <string name="fest1season">22 August 2020 (Date may vary)</string>
+    <string name="fest1des">Ganesh Chaturthi is the main festival of Mumbai among Hindus in Mumbai. In 1893, freedom fighter Lokmanya Tilak transformed this festival into a public event to gain India’s unity among castes to rebel against the British rule. This week-long festivals has prayers, hymns, songs and performances in almost every lane. On the last day (Visarjan), the idols of Lord Ganesha are lovingly taken in processions and immersed in the sea.</string>
+
+    <!--Festival 2-->
+    <string name="fest2name">Global Citizen Festival</string>
+    <string name="fest2season">During December</string>
+    <string name="fest2des">Started in 2012, it aims at ending global poverty and Chris Martin, Coldplay’s lead vocalist is the curator for this massive event. The event has most of who’s who of Bollywood and Hollywood artists like Coldplay, Jay Z, Demi Lovato, and India’s legend A.R.Rahman. It is indisputably one of the best music events in Mumbai.</string>
+    <!--Festival 3-->
+    <string name="fest3name">Mumbai International Film Festival</string>
+    <string name="fest3season">Conducted yearly</string>
+    <string name="fest3des">One of the oldest and largest film festivals in South Asia for non-feature films, the event is organized by Ministry of Information and Broadcasting. This week-long film fiesta celebrates documentaries, short fiction and animation films from all parts of India and the prize money for the Golden Conch Award-winning Best Documentary Film in the International Competition is a whopping Rs 1 million.</string>
+    <!--Festival 4-->
+    <string name="fest4name">Youtube Fanfest</string>
+    <string name="fest4season">Conducted yearly</string>
+    <string name="fest4des">Youtube Fanfest Mumbai is one of the most exciting Mumbai festivals to celebrate the budding Youtube stars from India and across the world. The event usually constitutes of Youtube Stars singing, dancing, and performing stand up comedy gigs. Some key performers in the 2018 event include Aksh Bhagla, Ashish Chanchlani, Be Younick, Bhuvan Ram, Collins Key, Matt Steffania, Gabbie Hanna and many others.</string>
+    <string name="location">Location</string>
+    <string name="spot_desc">Spot Desc</string>
+    <string name="fest_name">Fest Name</string>
+    <string name="fest_season">Fest Season</string>
+    <string name="fest_dec">Fest Dec</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="hotel_ratings">Hotel Ratings</string>
+    <string name="hotel_price">Hotel Price</string>
+    <string name="book_hotel">Book Hotel</string>
+    <string name="festival_name">Festival Name</string>
+    <string name="hotels">Hotels</string>
+    <string name="rating">Rating</string>
+    <string name="price">Price</string>
+    <string name="spot_name">Spot Name</string>
+    <string name="timings">Timings</string>
+    <string name="locati">Location</string>
+    <string name="rat">Rating</string>
+
+
+</resources>
